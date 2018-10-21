@@ -1,5 +1,5 @@
 _repo: Told-After-Supper_1993
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Ghost stories, English'
 - !lcsh 'Short stories'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: 'How the stories came to be told -- Teddy Biffles'' story: Johnson
   and Emily; or, the faithful ghost -- Interlude: the doctor''s story -- Mr. Coombes''s
   story: the haunted mill; or, the ruined home -- Interlude -- My uncle''s story:
